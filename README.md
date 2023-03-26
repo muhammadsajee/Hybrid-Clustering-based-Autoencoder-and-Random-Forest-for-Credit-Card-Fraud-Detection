@@ -1,0 +1,6 @@
+# Hybrid-Clustering-based-Autoencoder-and-Random-Forest-for-Credit-Card-Fraud-Detection
+Credit card fraud is a serious problem that can have a significant financial impact on both businesses and consumers. Traditional methods of fraud detection are often ineffective, and fraudsters are constantly finding new ways to exploit the system. Machine learning offers a promising solution, as it can analyze patterns in past fraud data to detect fraudulent activity with a high degree of accuracy.
+
+In this study, we present a unique approach to detecting fraudulent transactions using a hybrid learning technique that combines both supervised and unsupervised learning. We use a Clustering-based Autoencoder and Random Forest to extract important features from the data and classify anomalies in real-time transactions. This approach outperforms the traditional Autoencoder and Random Forest methods in terms of the Mathew Correlation Coefficient.
+
+Our work is supported by the Faculty of Physics and Mathematics at the University of Hull, Kingston upon Hull, United Kingdom. This project demonstrates the potential of machine learning in credit card fraud detection and offers an innovative solution to an ongoing problem.
